@@ -1,0 +1,6 @@
+sentence_transformers
+transformers
+numpy
+websocket_client
+loguru
+openai
